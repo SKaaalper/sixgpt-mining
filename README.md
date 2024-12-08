@@ -4,16 +4,20 @@ Before start:
 You must have logged into [https://sixgpt.xyz](https://sixgpt.xyz) with your wallet & email before running the miner
 Make sure the wallet associated with your vana private key has enough $VANA balance on the desired network (at least 0.1) 
 
+
 Claim Faucet here: [VANA faucet](https://faucet.vana.org/moksha)
+
 
 ## SixGPT Official Account:
 - [Twitter](https://x.com/sixgpt)
 - [Discord](https://discord.com/invite/4WVt25pbpG)
 - [Website](https://sixgpt.xyz/)
+  
 
 **SixGPT** is a decentralized synthetic data generation platform built on the [Vana network Official Twitter](https://x.com/withvana).
 
 The SixGPT Miner is a software package which allows users to contribute data they generate for wikipedia question-answer based tasks to the network for rewards. In the future, we will support other tasks such as chatbot conversations, image captioning, etc.
+
 
 ### Install Docker:
 
